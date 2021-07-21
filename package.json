@@ -13,6 +13,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "axios-with-dns": "^1.0.4",
+    "dns2": "^2.0.1",
     "node_dns_changer": "^1.1.9"
   }
 }
