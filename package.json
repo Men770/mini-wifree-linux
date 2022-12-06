@@ -11,7 +11,7 @@
   "license": "GPL-3.0-only",
   "repository": "github:Men770/mini-wifree-linux",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.2.1",
     "axios-with-dns": "^1.0.4",
     "node_dns_changer": "^1.1.9"
   }
